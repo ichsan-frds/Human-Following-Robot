@@ -1,4 +1,4 @@
-# Human-Follower
+# Human Following Robot
 
 ## Anggota Kelompok
 | NPM           | Name        |
